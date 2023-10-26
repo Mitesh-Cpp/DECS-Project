@@ -1,3 +1,5 @@
+# Script to run n client parallely / perform a load test on server
+
 #!/usr/bin/bash
 
 argc=$#
@@ -19,13 +21,12 @@ waittime=$7
 
 for ((i=1;i<=$ct;i++));
 do 
- echo "Launching client $i in background"
+ echo "Starting client $i in background"
 ./client $1 $2 $3 $5 $6 $7 > "clientoutput$i.txt" &
 done
 
 wait
 
-// throughput=0
 overallthroughput=0
 avgResponseTime=0
 numberofResponses=0
@@ -36,41 +37,32 @@ avgerrorrate=0
 
 for ((j = 1; j <= numClients; j++)); do
   avgResponseTime_i=$(grep "Average Response Time (seconds):" "clientoutput$j.txt" | cut -d ':' -f 2)
-  echo "client $j's avgResponseTime = $avgResponseTime_i"
   throughput_i=$(grep "Throughput:" "clientoutput$j.txt" | cut -d ':' -f 2)
-  echo "client $j's throughput = $throughput_i"
   successfulResponses_i=$(grep "Number of Successful Responses:" "clientoutput$j.txt" | cut -d ':' -f 2)
-  echo "client $j's successfulResponses = $successfulResponses_i"
   avgreqrate_i=$(grep "Request sent rate:" "clientoutput$j.txt" | cut -d ':' -f 2)
-  echo "client $j's avgreqrate = $avgreqrate_i"
   avgsuccessfulrate_i=$(grep "Successful request rate:" "clientoutput$j.txt" | cut -d ':' -f 2)
-  echo "client $j's avgsuccessfulrate = $avgsuccessfulrate_i"
   avgtimeoutrate_i=$(grep "Timeout rate:" "clientoutput$j.txt" | cut -d ':' -f 2)
-  echo "client $j's avgtimeoutrate = $avgtimeoutrate_i"
   avgerrorrate_i=$(grep "Error rate:" "clientoutput$j.txt" | cut -d ':' -f 2)
-  echo "client $j's avgerrorrate = $avgerrorrate_i"
   avgResponseTime=$(echo "$avgResponseTime + $avgResponseTime_i" | bc -l)
-  echo "avgresponsetime = $avgResponseTime"
   overallthroughput=$(echo "$overallthroughput + $throughput_i" | bc -l)
-  echo "overallthroughput = $overallthroughput"
   numberofResponses=$(echo "$numberofResponses + $successfulResponses_i" | bc -l)
-  echo "numberOfResponses = $numberofResponses"
   avgreqrate=$(echo "$avgreqrate + $avgreqrate_i" | bc -l)
-  echo "avgreqrate = $avgreqrate"
   avgsuccessfulrate=$(echo "$avgsuccessfulrate + $avgsuccessfulrate_i" | bc -l)
-  echo "avgsuccessfulrate = $avgsuccessfulrate"
   avgtimeoutrate=$(echo "$avgtimeoutrate + $avgtimeoutrate_i" | bc -l)
-  echo "avgtimeoutrate = $avgtimeoutrate"
   avgerrorrate=$(echo "$avgerrorrate + $avgerrorrate_i" | bc -l)
-  echo "avgerrorrate = $avgerrorrate"
 done
 avgResponseTime=$(echo "$avgResponseTime / $numClients" | bc -l)
+echo "Avg Response Time = $avgResponseTime"
 echo "$numClients $overallthroughput" >> throughput_data.txt
+echo "Throughput = $overallthroughput"
 echo "$numClients $avgResponseTime" >> response_time_data.txt
 echo "$numClients $avgreqrate" >> request_rate.txt
+echo "Avg Req Rate = $avgreqrate"
 echo "$numClients $avgsuccessfulrate" >> goodput_data.txt
+echo "Avg Successful Rate = $avgsuccessfulrate"
 echo "$numClients $avgtimeoutrate" >> timeout_rate.txt
+echo "Avg Timeout Rate = $avgtimeoutrate"
 echo "$numClients $avgerrorrate" >> error_rate.txt
-
+echo "Avg Error Rate = $avgerrorrate"
 
 rm clientoutput*

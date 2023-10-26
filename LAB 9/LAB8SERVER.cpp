@@ -30,8 +30,7 @@ const char OUTPUT_ERROR_MSG[] = "OUTPUT ERROR\n";
 void error(const char *msg) {
     // perror(msg);
     // exit(EXIT_FAILURE);
-    cerr << msg <<endl;
-    pthread_exit(NULL);
+    cerr << msg;
 }
 
 struct request_response_packet {
@@ -62,9 +61,6 @@ void send_status_to_client(int sockfd, const char *msg, bool is_last_packet) {
     packet.bytes_to_read = sizeof(packet.packet_buffer);
     packet.is_last_packet = is_last_packet;
     int n = write(sockfd, &packet, sizeof(packet));
-    if (n < 0) {
-        error("ERROR writing to socket");
-    }
 }
 
 void receive_file_from_client_into_file(int sockfd, string filename) {
@@ -72,9 +68,6 @@ void receive_file_from_client_into_file(int sockfd, string filename) {
     int fileDescriptor = open(filename.c_str(), O_RDWR | O_CREAT, S_IRUSR | S_IWUSR | S_IXUSR);
     while (true) {
         int n = read(sockfd, &packet, sizeof(packet));
-        if (n < 0) {
-            error("ERROR writing to socket");
-        }
         int wroteBytes = write(fileDescriptor, packet.packet_buffer, packet.bytes_to_read);
         if (packet.is_last_packet)
             break;
@@ -156,7 +149,7 @@ int main(int argc, char *argv[]) {
     sockfd = socket(AF_INET, SOCK_STREAM, 0);
     if (sockfd < 0)
         error("ERROR opening socket");
-    cout << "1" << endl;
+
     memset((char *)&serv_addr, 0, sizeof(serv_addr));
     serv_addr.sin_family = AF_INET;
     serv_addr.sin_addr.s_addr = INADDR_ANY;
@@ -166,26 +159,22 @@ int main(int argc, char *argv[]) {
         error("ERROR on binding");
     listen(sockfd, 3000);
     clilen = sizeof(cli_addr);
-cout << "2" << endl;
+
     while (1) {
-        cout << "6" << endl;
         newsockfd = accept(sockfd, (struct sockaddr*)&cli_addr, &clilen);
-        if (newsockfd < 0){
-            cerr << "ERROR on accept" << endl;
-            continue;
-        }
-cout << "3" << endl;
+        if (newsockfd < 0)
+            error("ERROR on accept");
+
         // Create a new thread using pthread_create
         pthread_t worker_thread;
         int* newsockfd_ptr = new int; // Dynamically allocate memory to pass the socket descriptor
         *newsockfd_ptr = newsockfd;
         int thread_create_result = pthread_create(&worker_thread, NULL, handle_client, newsockfd_ptr);
-cout << "4" << endl;
+
         if (thread_create_result != 0) {
             cerr << "ERROR creating thread: " << thread_create_result << endl;
             delete newsockfd_ptr; // Free the allocated memory if thread creation fails
         }
-        cout << "5" << endl;
     }
 
     return 0;

@@ -17,16 +17,23 @@ using namespace std;
 #define MAX_PACKET_BUFFER_SIZE 1024
 
 void error(const char *msg);
-void send_response_to_client_from_file(int sockfd, string filename);
-void send_status_to_client(int sockfd, const char *msg, bool is_last_packet);
-void receive_file_from_client_into_file(int sockfd, string filename);
+int send_response_to_client_from_file(int sockfd, string filename);
+int send_status_to_client(int sockfd, const char *msg, bool is_last_packet);
+int receive_file_from_client_into_file(int sockfd, string filename);
 void *handle_client(void *arg);
 void *average_queue_size(void *arg);
 
-pthread_mutex_t queue_lock; // P
-pthread_cond_t queue_empty; // P
+struct request_response_packet
+{
+    bool is_last_packet;
+    int bytes_to_read;
+    char packet_buffer[MAX_PACKET_BUFFER_SIZE];
+};
 
-queue<int> newsockfd_queue; // P
+pthread_mutex_t queue_lock; 
+pthread_cond_t queue_empty; 
+
+queue<int> newsockfd_queue; 
 
 const char SUBMISSIONS_DIR[] = "./submissions/";
 const char EXECUTABLES_DIR[] = "./executables/";

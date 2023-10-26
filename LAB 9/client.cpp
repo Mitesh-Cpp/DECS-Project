@@ -15,14 +15,12 @@ using namespace std;
 
 void error(const char *msg) {
     perror(msg);
-    // exit(0);
 }
 
 struct request_response_packet {
     bool is_last_packet;
     int bytes_to_read;
     char packet_buffer[MAX_PACKET_BUFFER_SIZE];
-    // bool is_last_loop;
 };
 
 int send_code_to_server_from_file(int sockfd, string code_file) {
@@ -32,10 +30,8 @@ int send_code_to_server_from_file(int sockfd, string code_file) {
     if (file == nullptr) {
         fclose(file);
         return -2;
-        // error("ERROR opening file");
     }
     long file_size;
-    // Calculate the file size
     fseek(file, 0, SEEK_END);
     file_size = ftell(file);
     rewind(file);
@@ -43,14 +39,13 @@ int send_code_to_server_from_file(int sockfd, string code_file) {
     // Send the content of the file to the server in chunks
     request_response_packet packet;
     packet.is_last_packet = false;
-    // packet.is_last_loop = is_last_loop;
     while (file_size > 0) {
         int chunk_size = fread(packet.packet_buffer, 1, sizeof(packet.packet_buffer), file);
         packet.bytes_to_read = chunk_size;
         if(chunk_size < MAX_PACKET_BUFFER_SIZE)
             packet.is_last_packet = true;
         if (chunk_size == 0) {
-            break;  // Reached end of file
+            break;  
         }
         packet.bytes_to_read = chunk_size;
         int n = write(sockfd, &packet, sizeof(packet));
@@ -79,8 +74,7 @@ int receive_response_from_server(int sockfd) {
 		    } 
             return -2;
         }
-        cout<<packet.packet_buffer;
-        //int wroteBytes = write(STDOUT_FILENO, packet.packet_buffer, packet.bytes_to_read);
+        cout << packet.packet_buffer;
         if(packet.is_last_packet)
             break;
     }
@@ -89,14 +83,13 @@ int receive_response_from_server(int sockfd) {
 }
 
 int main(int argc, char *argv[]) {
-    // ./submit  <serverIP:port>  <sourceCodeFileTobeGraded>  <loopNum> <sleepTimeSeconds>
     int sockfd, portno, n;
     struct sockaddr_in serv_addr;
     struct hostent *server;
     char *buffer = nullptr;
 
     if (argc != 7) {
-        cerr << "Usage: ./client ip-addr port studentCode.cpp loopNum sleepTimeSeconds timeoutSeconds" << endl;
+        cerr << "Usage: ./client <ip-addr> <port> <studentCode.cpp> <loopNum> <sleepTimeSeconds> <timeoutSeconds>" << endl;
         exit(0);
     }
 
@@ -120,8 +113,6 @@ int main(int argc, char *argv[]) {
           server->h_length);
     serv_addr.sin_port = htons(portno);
 
-    
-    
     struct timeval start, end, loopStart, loopEnd, timeout;
     long total_response_time = 0;
     long total_loop_time = 0;
@@ -148,13 +139,12 @@ int main(int argc, char *argv[]) {
 		    cerr << "Error connecting to the server." << endl;
             numErrors ++;
 		    close(sockfd);
-		    continue; // Continue to the next iteration of the loop
+		    continue; 
 	    }
-        // cout<<"here";
+
         int bytesSent = send_code_to_server_from_file(sockfd, studentCode);
         if (bytesSent < 0) {
-		    // Check if the error was due to a timeout
-            if(bytesSent == -1) {
+		    if(bytesSent == -1) {
 		        if (errno == EAGAIN || errno == EWOULDBLOCK) {
 		            cerr << "Send timeout." << endl;
 		            numTimeouts++;
@@ -172,7 +162,7 @@ int main(int argc, char *argv[]) {
                 numErrors ++;
 		    }
 		    close(sockfd);
-		    continue; // Continue to the next iteration of the loop
+		    continue;
 	    }
 
         gettimeofday(&start, NULL);
@@ -180,7 +170,6 @@ int main(int argc, char *argv[]) {
         int bytesRead = receive_response_from_server(sockfd);
 
         if (bytesRead < 0) {
-		    // Check if the error was due to a timeout
 		    if(bytesRead == -1) {    
                 cerr << "Received timeout." << endl;
 		        numTimeouts++;
@@ -189,7 +178,7 @@ int main(int argc, char *argv[]) {
 		        cerr << "Error receiving data." << endl;
                 numErrors ++;
 		    }
-            gettimeofday(&end, NULL);  // Capture the end time here
+            gettimeofday(&end, NULL);
             total_response_time += (end.tv_sec - start.tv_sec) * 1000000 + (end.tv_usec - start.tv_usec);
             close(sockfd);
             continue;
@@ -198,7 +187,7 @@ int main(int argc, char *argv[]) {
            successful_responses ++;
         }
 
-        gettimeofday(&end, NULL);  // Capture the end time here
+        gettimeofday(&end, NULL);
         total_response_time += (end.tv_sec - start.tv_sec) * 1000000 + (end.tv_usec - start.tv_usec);
         
         close(sockfd);
@@ -209,7 +198,7 @@ int main(int argc, char *argv[]) {
     gettimeofday(&loopEnd, NULL);
     total_loop_time = (loopEnd.tv_sec - loopStart.tv_sec) * 1000000 + (loopEnd.tv_usec - loopStart.tv_usec);
     
-    cout<<"\n";
+    cout << endl;
     if(successful_responses != 0) {
         cout << "Average Response Time (seconds):" << fixed << setprecision(10) << total_response_time/(1000000.0 * successful_responses) << endl;
         cout << "Throughput:" << 1000000.0*successful_responses/total_response_time << endl;
@@ -221,8 +210,8 @@ int main(int argc, char *argv[]) {
     
     cout << "Number of Successful Responses:" << successful_responses << endl;
     cout << "Time for Completing the Loop (seconds):" << total_loop_time/1000000.0 << endl;
-    cout << "Request sent rate: " << fixed << setprecision(10) << 1.0 * loopNum / total_loop_time << endl;
-    cout << "Successful request rate: " << fixed << setprecision(10) << 1.0 * successful_responses / total_loop_time << endl;
+    cout << "Request sent rate: " << fixed << setprecision(10) << 1000000.0 * loopNum / total_loop_time << endl;
+    cout << "Successful request rate: " << fixed << setprecision(10) << 1000000.0 * successful_responses / total_loop_time << endl;
     cout << "Timeout rate:"<< 1.0*numTimeouts/total_loop_time<<endl;
     cout << "Error rate:"<<1.0*numErrors/total_loop_time << endl;
 

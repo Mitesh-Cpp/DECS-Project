@@ -1,71 +1,81 @@
-struct request_response_packet
-{
-    bool is_last_packet;
-    int bytes_to_read;
-    char packet_buffer[MAX_PACKET_BUFFER_SIZE];
-};
+// Contains all the functions that server needs to send and receive data to and from client
 
-void error(const char *msg)
-{
-    cerr << msg;
-}
-
-void send_response_to_client_from_file(int sockfd, string filename)
+int send_response_to_client_from_file(int sockfd, string filename)
 {
     request_response_packet packet;
     int bytesRead;
     int fileDescriptor = open(filename.c_str(), O_RDONLY);
+    if(fileDescriptor == -1) {
+        cerr << "Error opening file." << endl;
+        close(sockfd);
+        return -1;
+    }
+    
     while ((bytesRead = read(fileDescriptor, packet.packet_buffer, sizeof(packet.packet_buffer))) > 0)
     {
         packet.bytes_to_read = bytesRead;
         packet.is_last_packet = false;
         if (bytesRead < MAX_PACKET_BUFFER_SIZE)
             packet.is_last_packet = true;
-        int n = write(sockfd, &packet, sizeof(packet));
+        int n = send(sockfd, &packet, sizeof(packet), 0);
+        if (n <= 0) {
+            perror("ERROR writing to socket");
+            close(sockfd);  
+            return -1;  
+        }
         if (n < 0)
         {
-            error("ERROR writing to socket");
+            perror("ERROR writing to socket");
+            close(sockfd);
+            return -1;
         }
     }
-    close(fileDescriptor); // P
+    close(fileDescriptor);
+    return 1;
 }
 
-void send_status_to_client(int sockfd, const char *msg, bool is_last_packet)
+int send_status_to_client(int sockfd, const char *msg, bool is_last_packet)
 {
     request_response_packet packet;
     strncpy(packet.packet_buffer, msg, sizeof(packet.packet_buffer));
     packet.bytes_to_read = sizeof(packet.packet_buffer);
     packet.is_last_packet = is_last_packet;
     int n = write(sockfd, &packet, sizeof(packet));
-    if (n < 0) {
-        error("ERROR writing to socket");
+    if(n <= 0) {
+        cerr << "Error writing status.";
+        close(sockfd);
+        return -1;
     }
+    return 1;
 }
 
-void receive_file_from_client_into_file(int sockfd, string filename)
+int receive_file_from_client_into_file(int sockfd, string filename)
 {
     request_response_packet packet;
     int fileDescriptor = open(filename.c_str(), O_RDWR | O_CREAT, S_IRUSR | S_IWUSR | S_IXUSR);
     while (true)
     {
-        int n = read(sockfd, &packet, sizeof(packet));
+        int n = recv(sockfd, &packet, sizeof(packet), 0);
+        if(n <= 0) {
+            cerr << "Error receiving file.";
+            close(sockfd);
+            return -1;
+        }
         int wroteBytes = write(fileDescriptor, packet.packet_buffer, packet.bytes_to_read);
         if (packet.is_last_packet)
             break;
         memset(packet.packet_buffer, 0, sizeof(packet.packet_buffer));
     }
-    close(fileDescriptor); // P
+    close(fileDescriptor);
+    return 1;
 }
 
 void *handle_client(void *arg)
 {
 
-    while (1)//P
+    while (1)
     {
-        // P ... start
         int newsockfd;
-        // check queue and take newsockfd from queue
-        // cout << "Inside Handle Client: Queue size is " << newsockfd_queue.size() << endl;
         pthread_mutex_lock(&queue_lock);
         while (newsockfd_queue.empty())
         {
@@ -74,8 +84,7 @@ void *handle_client(void *arg)
         newsockfd = newsockfd_queue.front();
         newsockfd_queue.pop();
         pthread_mutex_unlock(&queue_lock);
-        // P ... done
-
+        
         // Generate unique filenames based on the thread ID
         pthread_t self_thread = pthread_self();
         char source_file[100], executable[100], output_file[100], compiler_error_file[100], runtime_error_file[100], diff_file[100];
@@ -97,13 +106,16 @@ void *handle_client(void *arg)
         string remove_runtime_error_file_command = "rm " + string(runtime_error_file);
         string remove_diff_file_command = "rm " + string(diff_file);
 
-        receive_file_from_client_into_file(newsockfd, string(source_file));
+        if(receive_file_from_client_into_file(newsockfd, string(source_file)) < 0)
+            continue;
 
         int compiling = system(compile_command.c_str());
         if (compiling != 0)
         {
-            send_status_to_client(newsockfd, COMPILER_ERROR_MSG, false);
-            send_response_to_client_from_file(newsockfd, string(compiler_error_file));
+            if(send_status_to_client(newsockfd, COMPILER_ERROR_MSG, false) < 0)
+                continue;
+            if(send_response_to_client_from_file(newsockfd, string(compiler_error_file)) < 0)
+                continue;
             system(remove_source_file_command.c_str());
             system(remove_compiler_error_file_command.c_str());
         }
