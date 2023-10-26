@@ -1,4 +1,0 @@
-/usr/bin/ld: cannot find -lgcc: Too many open files
-/usr/bin/ld: cannot find /usr/lib/gcc/aarch64-linux-gnu/11/crtendS.o: Too many open files
-/usr/bin/ld: cannot find /usr/lib/gcc/aarch64-linux-gnu/11/../../../aarch64-linux-gnu/crtn.o: Too many open files
-collect2: error: ld returned 1 exit status

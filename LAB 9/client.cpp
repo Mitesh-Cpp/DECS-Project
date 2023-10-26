@@ -189,6 +189,8 @@ int main(int argc, char *argv[]) {
 		        cerr << "Error receiving data." << endl;
                 numErrors ++;
 		    }
+            gettimeofday(&end, NULL);  // Capture the end time here
+            total_response_time += (end.tv_sec - start.tv_sec) * 1000000 + (end.tv_usec - start.tv_usec);
             close(sockfd);
             continue;
 	    }
@@ -208,7 +210,15 @@ int main(int argc, char *argv[]) {
     total_loop_time = (loopEnd.tv_sec - loopStart.tv_sec) * 1000000 + (loopEnd.tv_usec - loopStart.tv_usec);
     
     cout<<"\n";
-    cout << "Average Response Time (seconds):" << total_response_time/(1000000.0 * successful_responses) << endl;
+    if(successful_responses != 0) {
+        cout << "Average Response Time (seconds):" << fixed << setprecision(10) << total_response_time/(1000000.0 * successful_responses) << endl;
+        cout << "Throughput:" << 1000000.0*successful_responses/total_response_time << endl;
+    }
+    else {
+        cout << "Average Response Time (seconds):" << fixed << setprecision(10) << total_loop_time/(1000000.0 * loopNum) << endl;
+        cout << "Throughput:" << "0" << endl;
+    }
+    
     cout << "Number of Successful Responses:" << successful_responses << endl;
     cout << "Time for Completing the Loop (seconds):" << total_loop_time/1000000.0 << endl;
     cout << "Request sent rate: " << fixed << setprecision(10) << 1.0 * loopNum / total_loop_time << endl;

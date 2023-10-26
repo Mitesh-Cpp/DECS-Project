@@ -1,2 +1,0 @@
-/usr/bin/ld: cannot open output file ./executables/gradeThisFile_281473633480960: No such file or directory
-collect2: error: ld returned 1 exit status

@@ -25,6 +25,7 @@ done
 
 wait
 
+// throughput=0
 overallthroughput=0
 avgResponseTime=0
 numberofResponses=0
@@ -36,6 +37,8 @@ avgerrorrate=0
 for ((j = 1; j <= numClients; j++)); do
   avgResponseTime_i=$(grep "Average Response Time (seconds):" "clientoutput$j.txt" | cut -d ':' -f 2)
   echo "client $j's avgResponseTime = $avgResponseTime_i"
+  throughput_i=$(grep "Throughput:" "clientoutput$j.txt" | cut -d ':' -f 2)
+  echo "client $j's throughput = $throughput_i"
   successfulResponses_i=$(grep "Number of Successful Responses:" "clientoutput$j.txt" | cut -d ':' -f 2)
   echo "client $j's successfulResponses = $successfulResponses_i"
   avgreqrate_i=$(grep "Request sent rate:" "clientoutput$j.txt" | cut -d ':' -f 2)
@@ -48,7 +51,7 @@ for ((j = 1; j <= numClients; j++)); do
   echo "client $j's avgerrorrate = $avgerrorrate_i"
   avgResponseTime=$(echo "$avgResponseTime + $avgResponseTime_i" | bc -l)
   echo "avgresponsetime = $avgResponseTime"
-  overallthroughput=$(echo "$overallthroughput + 1.0/$avgResponseTime_i" | bc -l)
+  overallthroughput=$(echo "$overallthroughput + $throughput_i" | bc -l)
   echo "overallthroughput = $overallthroughput"
   numberofResponses=$(echo "$numberofResponses + $successfulResponses_i" | bc -l)
   echo "numberOfResponses = $numberofResponses"

@@ -1,2 +1,0 @@
-cc1plus: fatal error: ./submissions/gradeFileAtServer_281473675751680.cpp: No such file or directory
-compilation terminated.

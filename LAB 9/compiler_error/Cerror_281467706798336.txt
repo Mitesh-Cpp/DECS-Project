@@ -1,2 +1,0 @@
-/usr/bin/ld: cannot find /lib/ld-linux-aarch64.so.1: Too many open files
-collect2: error: ld returned 1 exit status
