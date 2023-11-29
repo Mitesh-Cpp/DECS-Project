@@ -1,0 +1,1442 @@
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    994804  655394  994804  0    1 13:52 pts/8    00:00:01 ./server 2000
+mitesh    980150  655328  980150  0    8 13:42 ?        00:00:01 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=655328
