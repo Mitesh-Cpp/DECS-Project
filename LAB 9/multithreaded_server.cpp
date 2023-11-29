@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
         cerr << "ERROR on binding";
         exit(EXIT_FAILURE);
     }
-    listen(sockfd, 1000);
+    listen(sockfd, 3000);
     clilen = sizeof(cli_addr);
 
     //  Creating all thread_num threads using pthread_create
