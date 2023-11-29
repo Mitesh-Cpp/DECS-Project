@@ -1,0 +1,9 @@
+mkdir backup
+mkdir compiler_error
+mkdir diffs
+mkdir executables
+mkdir final_outputs
+mkdir outputs
+mkdir runtime_error
+mkdir submissions
+mkdir client_files

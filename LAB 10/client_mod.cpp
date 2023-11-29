@@ -17,20 +17,19 @@ using namespace std;
 
 struct sockaddr_in serv_addr;
 int status;
-int program_id;
-string sourceCode_reqID;
+string sourceCode;
 
 void error(const char *msg)
 {
     perror(msg);
+    // exit(0);
 }
 
 struct status_packet
-{   
+{
     int type;
     int request_id;
     int position_in_queue;
-
 };
 struct request_response_packet
 {
@@ -38,13 +37,15 @@ struct request_response_packet
     int bytes_to_read;
     char packet_buffer[MAX_PACKET_BUFFER_SIZE];
 };
+
 int send_code_to_server_from_file(int sockfd, string code_file)
 {
     // Open the student code file
     cout << code_file << endl;
     int total_bytes_sent = 0;
     FILE *file = fopen(code_file.c_str(), "r");
-    if (file == nullptr) {
+    if (file == nullptr)
+    {
         fclose(file);
         return -2;
     }
@@ -56,18 +57,21 @@ int send_code_to_server_from_file(int sockfd, string code_file)
     // Send the content of the file to the server in chunks
     request_response_packet packet;
     packet.is_last_packet = false;
-    while (file_size > 0) {
+    while (file_size > 0)
+    {
         int chunk_size = fread(packet.packet_buffer, 1, sizeof(packet.packet_buffer), file);
         packet.bytes_to_read = chunk_size;
-        if(chunk_size < MAX_PACKET_BUFFER_SIZE)
+        if (chunk_size < MAX_PACKET_BUFFER_SIZE)
             packet.is_last_packet = true;
-        if (chunk_size == 0) {
-            break;  
+        if (chunk_size == 0)
+        {
+            break;
         }
         packet.bytes_to_read = chunk_size;
         int n = write(sockfd, &packet, sizeof(packet));
         total_bytes_sent += n;
-        if (n < 0) {
+        if (n < 0)
+        {
             fclose(file);
             return -1;
         }
@@ -83,7 +87,7 @@ int send_requestID_to_server(int sockfd, int request_ID)
     requestID.request_id = request_ID;
     requestID.position_in_queue = 0;
 
-    int bytes_wrote = write(sockfd,&requestID,sizeof(requestID));
+    int bytes_wrote = write(sockfd, &requestID, sizeof(requestID));
     if (bytes_wrote <= 0)
     {
         return -1;
@@ -113,7 +117,7 @@ int receive_response_from_server(int sockfd)
     return 0;
 }
 
-void *submit(void *status_type)
+int submit(int reqID)
 {
     // --------------------- SOCKET CONNECT START HERE ----------------------
 
@@ -121,11 +125,10 @@ void *submit(void *status_type)
     if (sockfd < 0)
     {
         cerr << "ERROR opening socket" << endl;
-        return (void *)-1;
+        return -1;
     }
 
     int tries = 0;
-
     while (tries < MAX_TRIES)
     {
         if (connect(sockfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) == 0)
@@ -135,23 +138,22 @@ void *submit(void *status_type)
         sleep(1);
         tries += 1;
     }
-
     if (tries == MAX_TRIES)
     {
         cerr << "Error connecting to the server." << endl;
-        return (void *)-1;
+        return -1;
     }
 
     // -------------------------- SOCKET CONNECT END HERE ------------------------
 
     // ------------------------- 1ST SEND STATUS TO SERVER --------------------------
-   
+
     status_packet status_p;
     status_p.type = status;
-    status_p.request_id=0;
-    status_p.position_in_queue=0;
+    status_p.request_id = 0;
+    status_p.position_in_queue = 0;
     int bytes_wrote = write(sockfd, &status_p, sizeof(status_p));
-    if (bytes_wrote<=0)
+    if (bytes_wrote <= 0)
     {
         cerr << "Error: Unable to send status to the server";
     }
@@ -161,21 +163,21 @@ void *submit(void *status_type)
     // if status is "new" just send file to the server and end ----------
     if (!status)
     {
-        if (send_code_to_server_from_file(sockfd, sourceCode_reqID) != 0)
+        if (send_code_to_server_from_file(sockfd, sourceCode) != 0)
         {
             close(sockfd);
             cerr << "Error sending file." << endl;
-            return (void *)-1;
+            return -1;
         }
     }
     // if status is "check" send requestID to the server ------------
     else
     {
-        if (send_requestID_to_server(sockfd, atoi(sourceCode_reqID.c_str())) != 0)
+        if (send_requestID_to_server(sockfd, reqID) != 0)
         {
             close(sockfd);
             cerr << "Error sending requestID." << endl;
-            return (void *)-1;
+            return -1;
         }
     }
 
@@ -190,40 +192,35 @@ void *submit(void *status_type)
     // |     2       |   Request Processing Done                         |
     // |     3       |   File accepted and request ID pushed in queue    |
 
-    int bytes_read = read(sockfd,&status_p,sizeof(status_p));
+    int bytes_read = read(sockfd, &status_p, sizeof(status_p));
     switch (status_p.type)
     {
     case -1:
-        cout<<"Request ID invalid. Please resend."<<endl;
+        cout << "Request ID invalid. Please resend." << endl;
         break;
     case 0:
-        cout<<"Request is in queue at position "<<status_p.position_in_queue<<"."<<endl;
+        cout << "Request is in queue at position " << status_p.position_in_queue << "." << endl;
         break;
     case 1:
-        cout<<"Request is being processed by a thread."<<endl;
+        cout << "Request is being processed by a thread." << endl;
         break;
     case 2:
-        cout<<"Request is processed successfully."<<endl;
-        if(receive_response_from_server(sockfd)!=0){
-            cout<<"Error: Unable to receive output file from server"<<endl;
+        cout << "Request is processed successfully." << endl;
+        if (receive_response_from_server(sockfd) != 0)
+        {
+            cout << "Error: Unable to receive output file from server" << endl;
         }
         break;
     case 3:
-        cout<<"File accepted and request pushed in queue"<<endl;
-        char request_ID_file_command[50];
-        sprintf(request_ID_file_command,"echo %d > ./client_files/client_request_id_%d.txt",status_p.request_id,program_id);
-        system(request_ID_file_command);
+        cout << "File accepted and request pushed in queue" << endl;
+        return status_p.request_id;
         break;
     default:
-        cout<<"Error: wrong status received from server"<<endl;
+        cout << "Error: wrong status received from server" << endl;
         break;
     }
-
-
     close(sockfd);
-    int *type = (int*)malloc(sizeof(int));
-    *type = status_p.type;
-    return type;
+    return status_p.type;
 }
 
 int main(int argc, char *argv[])
@@ -234,24 +231,22 @@ int main(int argc, char *argv[])
     struct hostent *server;
     char *buffer = nullptr;
 
-    if (argc != 7)
+    if (argc != 6)
     {
-        cerr << "Usage: ./client ip-addr port status studentCode.cpp|requestID timeoutSeconds programID" << endl;
-        exit(1);
+        cerr << "Usage: ./client ip-addr port status studentCode.cpp|requestID timeoutSeconds" << endl;
+        exit(0);
     }
 
     portno = atoi(argv[2]);
-
     status = atoi(argv[3]);
-    sourceCode_reqID = argv[4];
+    sourceCode = argv[4];
     int timeoutSeconds = atoi(argv[5]);
-    program_id = atoi(argv[6]);
 
     server = gethostbyname(argv[1]);
     if (server == nullptr)
     {
         cerr << "ERROR, no such host" << endl;
-        exit(1);
+        exit(0);
     }
 
     bzero((char *)&serv_addr, sizeof(serv_addr));
@@ -265,50 +260,40 @@ int main(int argc, char *argv[])
     
     // --------------------- SEND NEW REQUEST AND KEEP CHECKING THE STATUS --------------------------
 
+    struct timeval start, end;
+    long total_response_time = 0;
+    int request_status;
 
-    struct timeval start, end, timeout;
-    timeout.tv_sec = timeoutSeconds;
-    timeout.tv_usec = 0;
-    struct timespec ts;
-    pthread_t worker;
-
-    if (clock_gettime(CLOCK_REALTIME, &ts) == -1)
-        exit(1);
-    ts.tv_sec += timeoutSeconds;
-
-    
-    // --------------------- SEND REQUEST THOUGH THREAD --------------------------
-    pthread_create(&worker, NULL, submit, NULL);
-
-
-
-    
-    // --------------------- GET STATUS THOUGH THREAD JOIN --------------------------
-    int *status_type;
-    if (pthread_timedjoin_np(worker, (void**)&status_type, &ts) != 0)
-    {
-        pthread_detach(worker);
-        cout << "\nTIME OUT" << endl;
-        exit(1);
-    }
-    else
-    {
-        gettimeofday(&end, NULL);
-        int request_status = *(int*)status_type;
-        free(status_type);
-        switch (request_status)
+    gettimeofday(&start, NULL);
+    // Send a new request -----------
+    status = 0;
+    int request_ID = submit(0);
+    cout << "Request ID : " << request_ID << endl;
+    // Keep sending check request ---------
+    while (1)
+    {   
+        sleep(5);
+        status = 1;
+        request_status = submit(request_ID);
+        // If request status is 2 (i.e. Processing done)
+        if (request_status == 2) 
         {
-        case 2:
-            exit(3);
             break;
-        
-        default:
-            exit(1);
+        }
+        if (request_status == -1)
+        {
+            cout<<"Some error occured"<<endl;
             break;
-        } 
-        
+        }
         
     }
+    gettimeofday(&end, NULL);
+
+
+    // --------------------- RESPONSE TIME CALCULATION -----------------------------------
+
+    total_response_time += (end.tv_sec - start.tv_sec) * 1000000 + (end.tv_usec - start.tv_usec);
+    cout<<"Response time = "<<total_response_time*1.0/1000000.0<<endl;
 
     return 0;
 }
