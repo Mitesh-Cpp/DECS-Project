@@ -17,16 +17,11 @@ numClient='
 80
 90
 100
-110
-120
-130
-140
-150
 '
 
 PROGRAM='loadtest.sh'
 loopNum=5
-sleepTime=1
+sleepTime=0
 timeouttime=100
 cpu_utilization=0.0
 ipaddr=0.0.0.0

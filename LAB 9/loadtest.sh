@@ -21,8 +21,7 @@ waittime=$7
 
 for ((i=1;i<=$ct;i++));
 do 
- echo "Starting client $i in background"
-./client $1 $2 $3 $5 $6 $7 > "clientoutput$i.txt" &
+  ./client $1 $2 $3 $5 $6 $7 > "clientoutput$i.txt" &
 done
 
 wait
@@ -52,17 +51,11 @@ for ((j = 1; j <= numClients; j++)); do
   avgerrorrate=$(echo "$avgerrorrate + $avgerrorrate_i" | bc -l)
 done
 avgResponseTime=$(echo "$avgResponseTime / $numClients" | bc -l)
-echo "Avg Response Time = $avgResponseTime"
 echo "$numClients $overallthroughput" >> throughput_data.txt
-echo "Throughput = $overallthroughput"
 echo "$numClients $avgResponseTime" >> response_time_data.txt
 echo "$numClients $avgreqrate" >> request_rate.txt
-echo "Avg Req Rate = $avgreqrate"
 echo "$numClients $avgsuccessfulrate" >> goodput_data.txt
-echo "Avg Successful Rate = $avgsuccessfulrate"
 echo "$numClients $avgtimeoutrate" >> timeout_rate.txt
-echo "Avg Timeout Rate = $avgtimeoutrate"
 echo "$numClients $avgerrorrate" >> error_rate.txt
-echo "Avg Error Rate = $avgerrorrate"
 
 rm clientoutput*
