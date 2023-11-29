@@ -12,4 +12,5 @@
 - Implemented all the status responses in the client
 - Designed all two thread pool structures and their respective functions
 - Generated loadtest script for analyzing the performance
+- Added Makefile and basic scripts for cleaning the project directory
   
