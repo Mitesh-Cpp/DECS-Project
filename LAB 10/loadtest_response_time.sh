@@ -12,7 +12,7 @@ for ((j = 1 ; j <= $max_c; j++)); do
 > response$j.txt
 loop_num=$((10*$j))
 for ((i = 0 ; i < $loop_num ; i++)); do
-  { time ./test_client.sh $ip $port $file $timeout $i; } 2>&1 | grep "real" | awk 'BEGIN {FS="\t"} {print $2}' | awk 'BEGIN {FS="m"} {print $2}' | awk 'BEGIN {FS="s"} {print $1}' >> response$j.txt &
+  { time bash test_client.sh $ip $port $file $timeout $i; } 2>&1 | grep "real" | awk 'BEGIN {FS="\t"} {print $2}' | awk 'BEGIN {FS="m"} {print $2}' | awk 'BEGIN {FS="s"} {print $1}' >> response$j.txt &
 done
 
 wait
