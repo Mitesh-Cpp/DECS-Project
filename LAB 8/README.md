@@ -13,4 +13,4 @@ Sequence for Performance Testing:
 
     4. Run analysis_and_plot_graph.sh: bash analysis_and_plot_graph.sh (This will take a few minutes)
 
-The results will be stored in response_time_plot.png and throughput_plot.png
+The results will be stored in response_time.png, throughput.png, timeout_rate.png, request_rate.png, nlwp.png, goodput_data.png, error_rate.png, cpu_util.png
