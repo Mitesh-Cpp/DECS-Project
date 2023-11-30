@@ -9,7 +9,7 @@ int main() {
 	}
 	return 0;
 
-
+}
 /*
 
 // Contains all the functions that server needs to send and receive data to and from client

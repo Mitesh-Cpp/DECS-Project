@@ -69,7 +69,7 @@ int send_status_to_client(int sockfd, const char *msg, bool is_last_packet)
 {
     request_response_packet packet;
     strncpy(packet.packet_buffer, msg, sizeof(packet.packet_buffer));
-    packet.bytes_to_read = sizeof(packet.packet_buffer);
+    packet.bytes_to_read = strlen(msg);
     packet.is_last_packet = is_last_packet;
     int n = write(sockfd, &packet, sizeof(packet));
     if (n <= 0)
@@ -240,7 +240,7 @@ void *handle_request(void *arg)
 // ---------------------------- THREAD FUNCTION TO RECEIVE FILE FROM SERVER ------------------------
 // This function check the request status
 // If the status is new it receives file from client, pops a request id from requestID_set and sends it to the client 
-// If the status is check it receives the 
+// If the status is check it receives the request ID from client and inform client about the status
 void *receive_file(void *arg)
 {
     while (1)

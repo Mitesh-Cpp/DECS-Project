@@ -233,14 +233,14 @@ int main(int argc, char *argv[])
 
     if (argc != 6)
     {
-        cerr << "Usage: ./client ip-addr port status studentCode.cpp|requestID timeoutSeconds" << endl;
+        cerr << "Usage: ./client ip-addr port studentCode.cpp loop_num think_time" << endl;
         exit(0);
     }
 
     portno = atoi(argv[2]);
-    status = atoi(argv[3]);
-    sourceCode = argv[4];
-    int timeoutSeconds = atoi(argv[5]);
+    sourceCode = argv[3];
+    int loop_num = atoi(argv[4]);
+    int think_time = atoi(argv[5]);
 
     server = gethostbyname(argv[1]);
     if (server == nullptr)
@@ -257,43 +257,79 @@ int main(int argc, char *argv[])
 
     // --------------------- SOCKET SETUP FINISH -----------------------------------
 
-    
-    // --------------------- SEND NEW REQUEST AND KEEP CHECKING THE STATUS --------------------------
 
-    struct timeval start, end;
-    long total_response_time = 0;
+    struct timeval start, end, loop_start,loop_end;
+    long response_time, total_response_time = 0, loop_time;
     int request_status;
 
-    gettimeofday(&start, NULL);
-    // Send a new request -----------
-    status = 0;
-    int request_ID = submit(0);
-    cout << "Request ID : " << request_ID << endl;
-    // Keep sending check request ---------
-    while (1)
-    {   
-        sleep(5);
-        status = 1;
-        request_status = submit(request_ID);
-        // If request status is 2 (i.e. Processing done)
-        if (request_status == 2) 
+
+    // --------------------- SEND NEW REQUEST AND KEEP CHECKING THE STATUS LOOP NUM TIMES --------------------------
+
+    gettimeofday(&loop_start, NULL);
+    for (int i = 0; i < loop_num; i++)
+    {
+
+        response_time = 0;
+
+        gettimeofday(&start, NULL);
+        // Send a new request -----------
+        status = 0;
+        int request_ID = submit(0);
+        cout << "Request ID : " << request_ID << endl;
+        // Keep sending check request ---------
+        while (1)
         {
-            break;
+            sleep(2);
+            status = 1;
+            request_status = submit(request_ID);
+            // If request status is 2 (i.e. Processing done)
+            if (request_status == 2)
+            {
+                break;
+            }
+            if (request_status == -1)
+            {
+                cout << "Some error occured" << endl;
+                break;
+            }
         }
-        if (request_status == -1)
-        {
-            cout<<"Some error occured"<<endl;
-            break;
-        }
+        gettimeofday(&end, NULL);
+
         
+        // --------------------- RESPONSE TIME CALCULATION -----------------------------------
+        
+        response_time = (end.tv_sec - start.tv_sec) * 1000000 + (end.tv_usec - start.tv_usec);
+        total_response_time += response_time;
+
+        sleep(think_time);
     }
-    gettimeofday(&end, NULL);
+    gettimeofday(&loop_end, NULL);
 
+    // --------------------- AVG RESPONSE TIME, THROUGHPUT CALCULATION -----------------------------------
+    
+    loop_time = (loop_end.tv_sec - loop_start.tv_sec) * 1000000 + (loop_end.tv_usec - loop_start.tv_usec);
+    //cout << "Average Response time = " << total_response_time * 1.0 / 1000000.0 / (loop_num*1.0)<< endl;
+    //cout << "Throughput = " << loop_num*1000000.0/loop_time <<endl;
+    int successful_responses = loop_num;
 
-    // --------------------- RESPONSE TIME CALCULATION -----------------------------------
-
-    total_response_time += (end.tv_sec - start.tv_sec) * 1000000 + (end.tv_usec - start.tv_usec);
-    cout<<"Response time = "<<total_response_time*1.0/1000000.0<<endl;
+    cout << endl;
+    if(successful_responses != 0) {
+        cout << "Average Response Time (seconds):" << fixed << setprecision(10) << total_response_time/(1000000.0 * successful_responses) << endl;
+        cout << "Throughput:" << 1000000.0*successful_responses/total_response_time << endl;
+    }
+    else {
+        cout << "Average Response Time (seconds):" << fixed << setprecision(10) << loop_time/(1000000.0 * loop_num) << endl;
+        cout << "Throughput:" << "0" << endl;
+    }
+    
+    cout << "Number of Successful Responses:" << successful_responses << endl;
+    cout << "Time for Completing the Loop (seconds):" << loop_time/1000000.0 << endl;
+    cout << "Request sent rate: " << fixed << setprecision(10) << 1000000.0 * loop_num / loop_time << endl;
+    cout << "Successful request rate: " << fixed << setprecision(10) << 1000000.0 * successful_responses / loop_time << endl;
+    
+    int numTimeouts = 0, numErrors = 0;
+    cout << "Timeout rate:"<< 1.0*numTimeouts/loop_time<<endl;
+    cout << "Error rate:"<<1.0*numErrors/loop_time << endl;
 
     return 0;
 }

@@ -42,13 +42,13 @@ NOTE: When the status is '0' ('new'), send filename and not the request_ID. When
 - This will run the client initially for a new request and then keep checking for its status periodically until the request is processed completely. The time command will give the response time for this request.
 
 ## Run multiple clients parallelly and get performance
-bash loadtest_response_time.sh ip port file timeout max_num_client
+bash analysis_and_plot_graphs.sh ip port file timeout max_client loop_num think_time
 
-Example 1: bash loadtest_response_time.sh 0.0.0.0 8080 studentCode.cpp 20 300
+Example 1: bash analysis_and_plot_graphs.sh 0.0.0.0 8080 studentCode.cpp 20 180 5 2
 
-- this script will run the 10, 20, 30, ... so on upto 300, clients simultaneosly and plot their average response time with increasing number of clients.
+- this script will run the 10, 20, 30, ... so on upto 180, clients simultaneosly and plot their average response time, throughput, utilization with increasing number of clients.
 
 ## Clear the temporary data created by client and server
-bash clear_all.sh
+bash clearall.sh
 
 
