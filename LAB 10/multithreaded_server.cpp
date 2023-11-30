@@ -1,5 +1,26 @@
 #include "declarations.h"
-#include "utilities.cpp"
+
+pthread_mutex_t queue_lock; 
+pthread_cond_t queue_empty; 
+
+pthread_mutex_t request_queue_lock;
+pthread_cond_t request_queue_empty;
+
+pthread_mutex_t set_lock;
+pthread_cond_t set_empty;
+
+pthread_mutex_t hashmap_lock;
+
+queue<int> newsockfd_queue;
+queue<int> request_queue;
+
+unordered_map<int, int> status_hashmap;
+unordered_set<int> requestID_set;
+
+pthread_mutex_t generator_lock;
+int random_no_generator;
+
+
 
 int main(int argc, char *argv[])
 {

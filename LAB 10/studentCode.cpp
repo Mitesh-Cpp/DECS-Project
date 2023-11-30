@@ -1,10 +1,11 @@
 // Sample Client code for submission
-
+#include<unistd.h>
 #include<iostream>
 using namespace std;
 
 int main() {
 	for(int i=1;i<=10;i++) {
+		sleep(10);
 		cout<<i<<" ";
 	}
 	return 0;

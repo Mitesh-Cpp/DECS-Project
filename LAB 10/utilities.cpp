@@ -1,6 +1,6 @@
+#include "declarations.h"
+
 // Contains all the functions that server needs to send and receive data to and from client
-
-
 
 
 // ----------------------- GETTING REQUEST POSITION IN QUEUE ------------------------------

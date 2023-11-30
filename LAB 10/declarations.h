@@ -26,6 +26,11 @@ int receive_file_from_client_into_file(int sockfd, string filename);
 void *handle_client(void *arg);
 void *average_queue_size(void *arg);
 void retrive_backup();
+void initialize(bool take_backup);
+void *receive_file(void *arg);
+void retrive_backup();
+void *handle_request(void *arg);
+void *backup_function(void *arg);
 
 struct status_packet
 {   
@@ -42,25 +47,24 @@ struct request_response_packet
     char packet_buffer[MAX_PACKET_BUFFER_SIZE];
 };
 
-pthread_mutex_t queue_lock; 
-pthread_cond_t queue_empty; 
+extern pthread_mutex_t queue_lock; 
+extern pthread_cond_t queue_empty; 
 
-pthread_mutex_t request_queue_lock;
-pthread_cond_t request_queue_empty;
+extern pthread_mutex_t request_queue_lock;
+extern pthread_cond_t request_queue_empty;
 
-pthread_mutex_t set_lock;
-pthread_cond_t set_empty;
+extern pthread_mutex_t set_lock;
+extern pthread_cond_t set_empty;
 
-pthread_mutex_t hashmap_lock;
+extern pthread_mutex_t hashmap_lock;
 
-queue<int> newsockfd_queue;
-queue<int> request_queue;
-unordered_map<int, int> status_hashmap;
-unordered_set<int> requestID_set;
+extern queue<int> newsockfd_queue;
+extern queue<int> request_queue;
+extern unordered_map<int, int> status_hashmap;
+extern unordered_set<int> requestID_set;
 
-pthread_mutex_t generator_lock;
-int random_no_generator;
-
+extern pthread_mutex_t generator_lock;
+extern int random_no_generator;
 
 const char SUBMISSIONS_DIR[] = "./submissions/";
 const char EXECUTABLES_DIR[] = "./executables/";
