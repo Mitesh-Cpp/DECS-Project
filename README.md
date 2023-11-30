@@ -7,6 +7,7 @@
 - Designed all the data structures required for server and client execution in utilities.cpp
 - Implemented file transfer utility functions
 - Created request_ID set which stores all the unique request_ID's
+- Created graph plotting scripts
 
 ## Prathamesh
 - Implemented all the status responses in the client
