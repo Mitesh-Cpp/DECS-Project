@@ -30,10 +30,10 @@ struct request_response_packet
     char packet_buffer[MAX_PACKET_BUFFER_SIZE];
 };
 
-pthread_mutex_t queue_lock; 
-pthread_cond_t queue_empty; 
+extern pthread_mutex_t queue_lock; 
+extern pthread_cond_t queue_empty; 
 
-queue<int> newsockfd_queue; 
+extern queue<int> newsockfd_queue; 
 
 const char SUBMISSIONS_DIR[] = "./submissions/";
 const char EXECUTABLES_DIR[] = "./executables/";

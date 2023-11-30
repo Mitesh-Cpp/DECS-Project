@@ -1,5 +1,9 @@
 #include "declarations.h"
-#include "utilities.cpp"
+
+pthread_mutex_t queue_lock; 
+pthread_cond_t queue_empty; 
+
+queue<int> newsockfd_queue; 
 
 int main(int argc, char *argv[])
 {

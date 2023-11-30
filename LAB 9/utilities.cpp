@@ -1,3 +1,5 @@
+#include "declarations.h"
+
 // Contains all the functions that server needs to send and receive data to and from client
 
 int send_response_to_client_from_file(int sockfd, string filename)
